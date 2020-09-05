@@ -1,0 +1,6 @@
+If it says it has a price per alch exp of less than 0, that means I don't have the data for it yet
+
+INK_SACK:4 is lapis
+RAW_FISH:1 is salmon
+RAW_FISH:3 is pufferfish
+MELON is glistening melon
