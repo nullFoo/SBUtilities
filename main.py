@@ -88,7 +88,7 @@ for item in itemsList:
 
 print("")
 print("In order of cheapest to most expensive:")
-for i in sorted(prices.items(), key=lambda x: x[1], reverse=True):
+for i in sorted(prices.items(), key=lambda x: x[1], reverse=False):
     print(i)
 
 end = input("")
