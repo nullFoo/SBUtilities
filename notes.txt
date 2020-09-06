@@ -4,3 +4,7 @@ INK_SACK:4 is lapis
 RAW_FISH:1 is salmon
 RAW_FISH:3 is pufferfish
 MELON is glistening melon
+
+
+A lot of the top ones on the flipper are incorrect
+I've been told the packed ice one is just a problem with the bazaar, the rest is probably because of my bad code
